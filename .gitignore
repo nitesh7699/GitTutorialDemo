@@ -1,3 +1,4 @@
 *.log
 dir/
 /static/*.txt
+first_renamed.txt
